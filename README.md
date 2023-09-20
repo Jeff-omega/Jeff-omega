@@ -38,9 +38,9 @@
 
 ## 🔎 Connect with me:<img height="60px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" />
 <p align="center">
-<a href="https://twitter.com/shubham99256136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shubham-bawankar-458342200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkdin" height="30" width="40" /></a>
-<a href="mailto:shubhambawankar735@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/icons8-gmail.svg" alt="Gmail" height="33" width="42" /></a>
+<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jeff-omega/Jeff-omega/main/images/icons8-gmail.svg" alt="Gmail" height="33" width="42" /></a>
 <br/>
 </p>
 
@@ -49,17 +49,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham56-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Bawankar" /> </p>
 <p align="center" width="100%" >
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham56-droid" alt="Shubham Bawankar" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jeff-omega" alt="ashutosh" />
 </a> 
 </p>
 
 <p align="center" width="100%" >
-<img margin="20px" src= "https://github-readme-stats.vercel.app/api?username=Shubham56-droid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img margin="20px" src= "https://github-readme-stats.vercel.app/api?username=Jeff-omega&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 <p align="center" width="100%" >
-<img margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham56-droid&layout=compact">
+<img margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-omega&layout=compact">
 </p>
-<p align="center" width="100%" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham56-droid&" alt="Shubham56-droid" /></p>
+<p align="center" width="100%" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeff-omega&" alt="Jeff-omega" /></p>
 
-[![Shubbham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham56-droid&bg_color=000000&color=ffffff&line=ff0088&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shubbham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeff-omega&bg_color=000000&color=ffffff&line=ff0088&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
