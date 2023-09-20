@@ -1,11 +1,11 @@
 <img src="./headimg.svg" alt="intro" />
-<p align="center"><img src="images/Hi i am shubham bawankar.svg"/></p>
+<p align="center"><img src="images/ashutoshkumar.svg"/></p>
 <p align="left">
   <p> -🔭 I’m currently a CSE student at Chandigard University</p>
   <p> - 🌱 I’m currently learning Web development and DSA</p>
   <p> - 👯 I’m looking to work on AI/ML</p>
   <p> - 😄 Pronouns: Web Developer</p>
-  <p> - ⚡ Fun fact: I love watching Anime And Listinig Music</p>
+  <p> - ⚡ Fun fact: Listinig Music</p>
 </p>
 <br/>
 <img width="100%" src="/images/ezgif-1-3458c17723.gif"/>
@@ -47,7 +47,7 @@
 
 ## 📊 My Github Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham56-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Bawankar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jeff-omega&label=Profile%20views&color=0e75b6&style=flat" alt="Jeff-omega" /> </p>
 <p align="center" width="100%" >
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jeff-omega" alt="ashutosh" />
 </a> 
