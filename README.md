@@ -5,7 +5,7 @@
   <p> - 🌱 I’m currently learning Web development and DSA</p>
   <p> - 👯 I’m looking to work on AI/ML</p>
   <p> - 😄 Pronouns: Web Developer</p>
-  <p> - ⚡ Fun fact: Listinig Music</p>
+  <p> - ⚡ Fun fact: Listening Music</p>
 </p>
 <br/>
 <img width="100%" src="/images/ezgif-1-3458c17723.gif"/>
